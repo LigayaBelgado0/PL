@@ -1,0 +1,1 @@
+gcc main.c c_lexer.c j_lexer.c py_lexer.c -o mylexer.exe
